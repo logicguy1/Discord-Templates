@@ -61,7 +61,7 @@ I ask them the following
 - [ ] Yes, I understand and accept  
 - [ ] No, I dont not agree to those terms  
 
-**Have you read and understand the discord community guidelines?**
+**Have you read and understand the discord community guidelines?**  
 You can find a link to them here: https://discord.com/guidelines  
 - [ ] Yes  
 - [ ] No  
