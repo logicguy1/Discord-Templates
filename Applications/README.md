@@ -34,8 +34,8 @@ I made all the scenarios optional so the user can decide if they want to do them
 
 _We expect the staff of our server to be able to take actions during the tough times of managing a server, here are a few scenarios. Answer as many you like and click next._
 
-_Please read this guide on handling difficult scenarios_
-_https://discord.com/moderation/360060483713-202:-Handling-Difficult-Scenarios _
+_Please read this guide on handling difficult scenarios_  
+https://discord.com/moderation/360060483713-202:-Handling-Difficult-Scenarios 
 
 1. Someone is spamming gore in chat, what would you do?
 2. Someone is using #General for music commands, the channel ment to do that is named #Music-Commands how would you take action here?
